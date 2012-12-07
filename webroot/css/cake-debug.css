@@ -1,0 +1,16 @@
+/* SQL log */
+.cake-sql-log {
+  background: #fff;
+  width: 100%;
+}
+.cake-sql-log td {
+  padding: 4px 8px;
+  text-align: left;
+  font-family: Monaco, Consolas, "Courier New", monospaced;
+}
+.cake-sql-log th {
+	text-align: left;
+}
+.cake-sql-log caption {
+  color:#fff;
+}
